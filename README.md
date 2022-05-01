@@ -31,3 +31,7 @@ npm start
 Title: React To Do List App (v2) | Refactored & Improved | Learn React JS | Do More with Less Code
 
 to be updated
+
+Old Code (https://github.com/webstylepress/to-do-list-app-react-wsp)
+
+Old Video (https://youtu.be/TmDNBEdHzVs)
